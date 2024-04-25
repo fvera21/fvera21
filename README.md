@@ -24,3 +24,4 @@ EQUIPOS
 - Athletico Paranaense (2023) 
 - Colo-Colo (2024-Act.)
 
+github-readme-stats
