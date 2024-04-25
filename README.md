@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **fvera21/fvera21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
