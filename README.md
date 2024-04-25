@@ -1,4 +1,4 @@
-### Hi there 👋
+### HOLA A TODOS!!! 👋
 
 ![VIDAL ES PADRE DE LA UNIVERSIDAD DE CHILE](https://github.com/fvera21/fvera21/blob/main/Arturo_Vidal.jpg)
 Here are some ideas to get you started:
