@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **fvera21/fvera21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![VIDAL ES PADRE DE LA UNIVERSIDAD DE CHILE https://github.com/fvera21/fvera21/blob/main/Arturo_Vidal.jpg)
+![VIDAL ES PADRE DE LA UNIVERSIDAD DE CHILE] (https://github.com/fvera21/fvera21/blob/main/Arturo_Vidal.jpg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
