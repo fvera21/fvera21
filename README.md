@@ -14,7 +14,7 @@ TITULOS
 - 🏆1 Copa Italia.
 
 EQUIPOS
-- Colo-Colo (2005-2007)🇨🇱
+- Colo-Colo (2005-2007
 - Bayer 04 Leverkusen (2007-2011) 
 - Juventus de Turín (2011-2015) 
 - Bayern Múnich (2015-2018) 
